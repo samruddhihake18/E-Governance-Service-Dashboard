@@ -1,0 +1,95 @@
+Application_ID,Citizen_Name,District,Service_Type,Application_Channel,Application_Date,Status,Processing_Days,Service_Fee,Satisfaction_Rating
+EG2026-001,Santosh Salunkhe,Pune,Birth Certificate,Online,2026-01-01,Approved,3,50,5
+EG2026-002,Jyoti Shinde,Sangli,Scholarship Application,Online,2026-01-03,Approved,10,0,5
+EG2026-003,Ajay Bhosale,Pune,Residence Certificate,Online,2026-01-04,Rejected,3,30,4
+EG2026-004,Sachin Bhosale,Kolhapur,Scholarship Application,CSC Center,2026-01-07,Approved,15,0,3
+EG2026-005,Suresh Sawant,Kolhapur,Income Certificate,Government Office,2026-01-18,Rejected,6,40,2
+EG2026-006,Omkar Chavan,Sangli,Birth Certificate,Online,2026-02-01,Approved,5,40,4
+EG2026-006,Omkar Chavan,Sangli,Birth Certificate,Online,2026-02-01,Approved,5,40,4
+EG2026-007,Yogesh Mohite,Satara,Birth Certificate,Online,2026-02-02,Approved,3,45,4
+EG2026-008,Sachin Kamble,kolhapur,Property Tax,Online,2026-02-02,Approved,2,3000,4
+EG2026-009,Suresh Kale,Satara,Residence Certificate,Online,2026-02-02,Approved,6,35,5
+EG2026-010,Kavita Kamble,Satara,Residence Certificate,Government Office,2026-02-08,Approved,6,35,5
+EG2026-011,Meena Desai,Kolhapur,Income Certificate,CSC Center,2026-02-09,Approved,5,30,5
+EG2026-012,Santosh More,Sangli,Income Certificate,Online,2026-02-09,Approved,6,35,4
+EG2026-013,Sneha Mane,Pune,Residence Certificate,Government Office,2026-02-12,Approved,,35,3
+EG2026-014,Prashant Kulkarni,Solapur,Income Certificate,Online,2026-02-13,Approved,5,30,5
+EG2026-015,Kiran Sawant,Pune,Income Certificate,CSC Center,2026-02-17,Approved,4,35,3
+EG2026-016,Pallavi Desai,Sangli,Property Tax,CSC Center,2026-02-17,Approved,4,600,3
+EG2026-017,Rohan Mohite,Sangli,Scholarship Application,Government Office,2026-02-22,Approved,11,0,4
+EG2026-018,Rohan Salunkhe,Solapur,Property Tax,Online,2026-02-23,Approved,4,1500,5
+EG2026-019,Swati Thorat,Sangli,Income Certificate,CSC Center,2026-02-24,Approved,6,35,5
+EG2026-020,Ajay Gaikwad,Satara,Caste Certificate,CSC Center,2026-02-26,Approved,10,30,
+EG2026-021,Madhuri Kale,Solapur,Senior Citizen Certificate,CSC Center,2026-02-26,Approved,6,25,4
+EG2026-022,Priya Yadav,Satara,Scholarship Application,CSC Center,2026-02-27,Approved,7,0,4
+EG2026-023,Pooja Sawant,Kolhapur,Residence Certificate,CSC Center,2026-03-01,Approved,5,30,5
+EG2026-024,Prashant Mane,Sangli,Birth Certificate,Online,2026-03-04,Approved,5,50,5
+EG2026-025,Mahesh Sawant,Sangli,Residence Certificate,Government Office,2026-03-09,Approved,9,30,3
+EG2026-026,Yogesh Jadhav,Kolhapur,,Online,2026-03-10,Rejected,4,40,1
+EG2026-027,Suresh Patil,Kolhapur,Property Tax,Online,2026-03-11,Approved,3,2200,3
+EG2026-028,Pallavi Thorat,Pune,Scholarship Application,Government Office,2026-03-13,Approved,10,0,5
+EG2026-029,Rekha Chavan,Kolhapur,Income Certificate,Government Office,2026-03-19,Approved,11,30,3
+EG2026-029,Rekha Chavan,Kolhapur,Income Certificate,Government Office,2026-03-19,Approved,11,30,3
+EG2026-030,Rekha Kamble,Sangli,Income Certificate,CSC Center,2026-03-21,Approved,7,30,3
+EG2026-031,Yogesh Desai,Kolhapur,Residence Certificate,CSC Center,2026-03-24,Pending,4,25,3
+EG2026-032,Rekha Kale,Pune,Water Connection,Government Office,2026-03-24,Approved,15,2000,5
+EG2026-033,Shital Salunkhe,Pune,Caste Certificate,Online,2026-03-25,Approved,9,30,4
+EG2026-034,Vijay Joshi,SANGLI,Birth Certificate,Online,2026-03-26,Approved,3,30,4
+EG2026-035,Dattatray Gaikwad,Solapur,Birth Certificate,Online,2026-04-05,Approved,3,35,5
+EG2026-036,Sunita Pawar,Satara,Income Certificate,Government Office,2026-04-11,Approved,11,35,3
+EG2026-037,Kiran Mane,Solapur,Birth Certificate,CSC Center,2026-04-11,Approved,6,45,3
+EG2026-038,Kiran Chavan,Solapur,Scholarship Application,CSC Center,2026-04-12,Approved,9,0,3
+EG2026-039,Vaishali Gaikwad,Pune,Water Connection,Government Office,2026-04-14,Approved,9,2000,4
+EG2026-040,Ajay Salunkhe,Sangli,Property Tax,Government Office,2026-04-21,Pending,6,1200,3
+EG2026-041,Madhuri Joshi,Pune,Property Tax,Online,2026-04-24,Approved,,600,5
+EG2026-042,Shital Chavan,Pune,Property Tax,Online,2026-05-02,Approved,2,1200,4
+EG2026-043,Santosh Sawant,Sangli,Residence Certificate,Online,2026-05-06,Pending,5,35,3
+EG2026-044,Pravin Mohite,Pune,Water Connection,Online,2026-05-10,Approved,12,1000,5
+EG2026-045,Yogesh Kamble,Pune,Residence Certificate,Government Office,2026-05-15,Approved,8,30,4
+EG2026-046,Rekha Patil,Sangli,Property Tax,CSC Center,2026-05-17,Approved,4,1500,4
+EG2026-047,Meena Yadav,Pune,Water Connection,Online,2026-05-17,Approved,19,1000,2
+EG2026-047,Meena Yadav,Pune,Water Connection,Online,2026-05-17,Approved,19,1000,2
+EG2026-048,Pallavi Mane,Pune,Scholarship Application,CSC Center,2026-05-18,Rejected,14,0,1
+EG2026-049,Santosh Joshi,Pune,Property Tax,Online,2026-05-19,Rejected,2,1200,3
+EG2026-050,Rekha Sawant,Sangli,Caste Certificate,Online,2026-05-19,Approved,7,40,4
+EG2026-051,Archana Salunkhe,Pune,Residence Certificate,Online,2026-05-24,Approved,4,25,5
+EG2026-052,Anita Bhosale,Pune ,Residence Certificate,Government Office,2026-05-26,Approved,5,30,4
+EG2026-053,Tushar Mohite,Kolhapur,Property Tax,Government Office,2026-05-27,Approved,6,2200,4
+EG2026-054,Santosh Mohite,Kolhapur,Income Certificate,Online,2026-06-01,Approved,5,35,5
+EG2026-055,Sneha Kulkarni,Satara,Scholarship Application,Online,2026-06-07,Approved,12,0,4
+EG2026-056,Rohan Joshi,Sangli,Scholarship Application,CSC Center,2026-06-07,Approved,12,0,
+EG2026-057,Prashant Mohite,Pune,Caste Certificate,Government Office,2026-06-15,Pending,9,30,3
+EG2026-058,Vijay Thorat,Solapur,Senior Citizen Certificate,Government Office,2026-06-18,Approved,8,25,5
+EG2026-059,Ganesh Yadav,Sangli,Birth Certificate,CSC Center,2026-06-21,Approved,6,45,4
+EG2026-060,Dattatray Salunkhe,Solapur,Birth Certificate,CSC Center,2026-06-26,Approved,6,30,3
+EG2026-061,Pallavi Kamble,Kolhapur,Senior Citizen Certificate,Government Office,2026-07-01,Rejected,4,20,2
+EG2026-062,Priya Kamble,Sangli,Residence Certificate,Online,2026-07-03,Approved,6,30,5
+EG2026-063,Pooja Gaikwad,Sangli,,Online,2026-07-03,Approved,12,0,5
+EG2026-064,Jyoti Kamble,Pune,Property Tax,Online,2026-07-04,Approved,2,1500,4
+EG2026-065,Kavita Yadav,Sangli,Residence Certificate,Online,2026-07-12,Approved,4,35,4
+EG2026-066,Rohan Kulkarni,Satara,Property Tax,Government Office,2026-07-13,Approved,7,850,3
+EG2026-067,Yogesh Thorat,Sangli,Residence Certificate,Government Office,2026-07-15,Approved,10,30,4
+EG2026-068,Sachin More,Kolhapur,Property Tax,Online,2026-07-16,Approved,3,600,3
+EG2026-069,Manisha Desai,Sholapur,Scholarship Application,CSC Center,2026-07-20,Pending,16,0,2
+EG2026-070,Rahul Gaikwad,Kolhapur,Scholarship Application,Online,2026-07-26,Approved,15,0,5
+EG2026-071,Vaishali Deshmukh,Kolhapur,Residence Certificate,CSC Center,2026-07-26,Approved,6,30,5
+EG2026-072,Rahul More,Kolhapur,Senior Citizen Certificate,CSC Center,2026-07-28,Pending,8,25,2
+EG2026-072,Rahul More,Kolhapur,Senior Citizen Certificate,CSC Center,2026-07-28,Pending,8,25,2
+EG2026-073,Archana Chavan,Satara,Caste Certificate,Government Office,2026-08-01,Pending,12,35,3
+EG2026-074,Suresh Salunkhe,Solapur,Caste Certificate,Online,2026-08-05,Pending,8,40,4
+EG2026-075,Meena Deshmukh,Solapur,Income Certificate,Government Office,2026-08-08,Approved,8,35,3
+EG2026-076,Anita Desai,Sangli,Income Certificate,Online,2026-08-10,Approved,6,40,4
+EG2026-077,Sneha Gaikwad,Sangli,Property Tax,CSC Center,2026-08-12,Pending,4,1500,3
+EG2026-078,Ganesh Pawar,Sangli,Property Tax,Online,2026-08-14,Pending,,3000,4
+EG2026-079,Dattatray Kale,Pune,Caste Certificate,CSC Center,2026-08-14,Pending,5,30,3
+EG2026-080,Omkar Sawant,Pune,Caste Certificate,Government Office,2026-08-15,Approved,12,30,5
+EG2026-081,Shital Sawant,Satara,Caste Certificate,Online,2026-08-15,Pending,9,40,4
+EG2026-082,Meena Sawant,Sangli,Property Tax,Online,2026-08-16,Pending,4,3000,3
+EG2026-083,Madhuri More,Satara,Senior Citizen Certificate,Online,2026-08-16,Pending,4,25,3
+EG2026-084,Rohan Sawant,Kolhapur,Property Tax,Government Office,2026-08-17,Pending,5,850,
+EG2026-085,Anita Mane,Kolhapur,Residence Certificate,Government Office,2026-08-18,Approved,5,25,3
+EG2026-086,Omkar Desai,Sangli,Senior Citizen Certificate,Government Office,2026-08-20,Pending,9,20,2
+EG2026-087,Sunita Salunkhe,Solapur,Scholarship Application,CSC Center,2026-08-21,Pending,11,0,3
+EG2026-088,Ganesh Kamble,Kolhapur,Property Tax,Online,2026-08-22,Approved,4,850,4
+EG2026-089,Shital Desai,Sangli,Caste Certificate,CSC Center,2026-08-26,Rejected,6,40,2
+EG2026-090,Jyoti Joshi,Pune,Property Tax,CSC Center,2026-08-28,Approved,3,2200,4

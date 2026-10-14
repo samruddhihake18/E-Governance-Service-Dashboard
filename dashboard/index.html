@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>E-Governance Service Dashboard</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <h1>E-Governance Service Dashboard</h1>
+  <p>Analysis of citizen applications for government services across five districts (January - August 2026).</p>
+  <p class="small">Data Warehousing &amp; Business Intelligence (1ADPE404) | ISE-I Activity 2 | AI &amp; DS Department, ADCET Ashta</p>
+</header>
+
+<main>
+  <!-- KPI cards -->
+  <section class="kpis">
+    <div class="kpi"><span class="label">Total Applications</span><span class="value" id="kpiTotal">0</span></div>
+    <div class="kpi green"><span class="label">Approved</span><span class="value" id="kpiApproved">0</span></div>
+    <div class="kpi red"><span class="label">Rejected</span><span class="value" id="kpiRejected">0</span></div>
+    <div class="kpi amber"><span class="label">Pending</span><span class="value" id="kpiPending">0</span></div>
+    <div class="kpi"><span class="label">Approval Rate</span><span class="value" id="kpiRate">0%</span></div>
+    <div class="kpi"><span class="label">Avg Processing Days</span><span class="value" id="kpiDays">0</span></div>
+    <div class="kpi"><span class="label">Avg Satisfaction (out of 5)</span><span class="value" id="kpiSat">0</span></div>
+  </section>
+
+  <!-- Filters -->
+  <section class="filters">
+    <div class="f"><label for="fDistrict">District</label><select id="fDistrict"></select></div>
+    <div class="f"><label for="fService">Service Type</label><select id="fService"></select></div>
+    <div class="f"><label for="fChannel">Application Channel</label><select id="fChannel"></select></div>
+    <div class="f"><label for="fStatus">Status</label><select id="fStatus"></select></div>
+    <div class="f buttons">
+      <button id="resetBtn" type="button">Reset Filters</button>
+      <label class="fileBtn" for="csvFile">Choose CSV</label>
+      <input type="file" id="csvFile" accept=".csv" hidden>
+    </div>
+    <p class="info" id="info"></p>
+  </section>
+
+  <!-- Charts -->
+  <section class="charts">
+    <div class="card"><canvas id="cDistrict"></canvas></div>
+    <div class="card"><canvas id="cStatus"></canvas></div>
+    <div class="card wide"><canvas id="cMonth"></canvas></div>
+    <div class="card"><canvas id="cService"></canvas></div>
+    <div class="card"><canvas id="cDays"></canvas></div>
+    <div class="card"><canvas id="cChannel"></canvas></div>
+    <div class="card"><canvas id="cSat"></canvas></div>
+  </section>
+
+  <!-- Data table -->
+  <section class="tableBox">
+    <h2>Application Records (filtered)</h2>
+    <div class="scroll">
+      <table id="dataTable">
+        <thead><tr><th>ID</th><th>Citizen</th><th>District</th><th>Service</th><th>Channel</th><th>Date</th><th>Status</th><th>Days</th><th>Fee (Rs.)</th><th>Rating</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<footer>E-Governance Service Dashboard | Built with HTML, CSS, JavaScript and Chart.js</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
